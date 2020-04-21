@@ -1,6 +1,5 @@
 # yarn
 .lock
-/lib
 benchmark
 
 # Numerous always-ignore extensions
