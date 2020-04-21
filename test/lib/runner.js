@@ -5,6 +5,7 @@ import {
   ma,
   sma,
   ema,
+  rma,
   wma
 } from '../../src'
 
@@ -13,6 +14,7 @@ const methods = {
   ma,
   sma,
   ema,
+  rma,
   wma
 }
 
